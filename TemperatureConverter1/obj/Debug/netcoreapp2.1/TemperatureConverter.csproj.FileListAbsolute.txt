@@ -1,0 +1,10 @@
+C:\Users\elcar\source\repos\TemperatureConverter1\TemperatureConverter1\bin\Debug\netcoreapp2.1\TemperatureConverter.deps.json
+C:\Users\elcar\source\repos\TemperatureConverter1\TemperatureConverter1\bin\Debug\netcoreapp2.1\TemperatureConverter.runtimeconfig.json
+C:\Users\elcar\source\repos\TemperatureConverter1\TemperatureConverter1\bin\Debug\netcoreapp2.1\TemperatureConverter.runtimeconfig.dev.json
+C:\Users\elcar\source\repos\TemperatureConverter1\TemperatureConverter1\bin\Debug\netcoreapp2.1\TemperatureConverter.dll
+C:\Users\elcar\source\repos\TemperatureConverter1\TemperatureConverter1\bin\Debug\netcoreapp2.1\TemperatureConverter.pdb
+C:\Users\elcar\source\repos\TemperatureConverter1\TemperatureConverter1\obj\Debug\netcoreapp2.1\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\elcar\source\repos\TemperatureConverter1\TemperatureConverter1\obj\Debug\netcoreapp2.1\TemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\elcar\source\repos\TemperatureConverter1\TemperatureConverter1\obj\Debug\netcoreapp2.1\TemperatureConverter.AssemblyInfo.cs
+C:\Users\elcar\source\repos\TemperatureConverter1\TemperatureConverter1\obj\Debug\netcoreapp2.1\TemperatureConverter.dll
+C:\Users\elcar\source\repos\TemperatureConverter1\TemperatureConverter1\obj\Debug\netcoreapp2.1\TemperatureConverter.pdb

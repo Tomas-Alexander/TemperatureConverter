@@ -71,7 +71,7 @@ namespace TemperatureConverter
             return value + 273.15;
         }
 
-        public static double ConvertFromCToF(double value)
+        private static double ConvertFromCToF(double value)
         {
             return (value * (9.0 / 5.0)) + 32;
         }
