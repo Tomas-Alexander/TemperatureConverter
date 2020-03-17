@@ -69,6 +69,8 @@ File path (write data result): <path>/Result.txt
 0,C,F,32
 ```
 
+`INSERT`, `UPDATE`, `DELETE` o `UPSERT`
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/Tomas-Alexander/TemperatureConverter/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
