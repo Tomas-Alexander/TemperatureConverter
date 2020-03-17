@@ -68,7 +68,7 @@ File path (write data result): <path>/Result.txt
 ```
 0,C,F,32
 ```
-- Procedimiento Almacenado (_Stored Procedure_): uno de los objetos más ampliamente utilizados luego de las tablas cuyo propósito principal es para hacer modificaciones a los datos de la base de datos. Su nombramiento iniciará con SP seguido de la tabla que modificará y por último la acción: `INSERT`, `UPDATE`, `DELETE` o `UPSERT`. Ejemplo: `[SP_MERCHANTS_UPDATE]`, `[SP_USERS_INSERT]` o `[SP_STATEMENTS_UPSERT]`.
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/Tomas-Alexander/TemperatureConverter/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
